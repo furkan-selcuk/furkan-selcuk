@@ -57,9 +57,15 @@
 - Daily positive affirmations and reminders via **React Native**  
 - Integrated **Firebase** for real-time data & notifications  
 
+### ♻️ Waste – UI/UX Redesign with React
+- Redesigned and developed a web UI using React, focused on creating a modern, user-friendly, and responsive interface
+- Implemented one Figma design, but included others as alternatives for review
+
 ### 💼 Personal Portfolio Website  
 - A showcase of my skills and projects using **React**  
 - Implemented **React Router** and responsive design  
+
+
 
 ---
 
