@@ -6,10 +6,10 @@
 
 ## 🧠 About Me
 
-- 🎓 Senior Computer Engineering student passionate about web technologies
-- ⚛️ Specializing in **React**, **React Native**, **Redux**, and **TypeScript**
-- 🎯 Focused on creating **accessible**, **responsive**, and **high-performance** user interfaces
-- 💼 Interested in collaborating on impactful and modern frontend projects
+- 🎓 Computer Engineering graduate from **KTO Karatay University**
+- ⚛️ Specialized in **React**, **React Native**, **Redux**, and **TypeScript**
+- 🎯 Focused on creating **user-friendly**, **high-performance**, and **accessible** interfaces
+- 🧑‍🏫 Experienced in **mentoring**, **training**, and **project execution**
 - 📍 Based in Konya, Turkey
 
 ---
@@ -17,55 +17,61 @@
 ## 💻 Work Experience
 
 ### Fonext – *Frontend Developer Intern*  
-📅 December 2024 – January 2025  
-- Developed responsive UI components with **React** and **TypeScript**  
-- Emphasized clean code structure and maintainability 
+📅 Dec 2024 – Jun 2025  
+- Reduced page load times by 30% through optimized React + TypeScript development  
+- Led full lifecycle of 2 frontend projects with 15+ dynamic components  
+- Created scalable architecture, improving dev speed by 40%
 
-### T3 Türkiye Technology Team – *Frontend Instructor & Mentor*  
-📅 March 2024 – December 2024  
-- Delivered training sessions and mentored students in frontend and hardware-software integration  
-- Led real-world project development guidance and curriculum planning  
+### T3 Türkiye Technology Team – *Software Instructor & Mentor*  
+📅 Mar 2024 – Dec 2024  
+- Delivered 30+ hours of training to 100+ students  
+- Mentored 20+ real-world projects  
+- Designed 3 project-based learning tracks  
 
 ### Entegre Yazılım – *Frontend Developer Intern*  
-📅 July 2024 – August 2024  
-- Built interfaces with **React**, **TypeScript**, and **Redux**  
-- Practiced Agile methodology in sprint-based tasks  
+📅 Jul 2024 – Aug 2024  
+- Developed 10+ reusable UI components with React  
+- Contributed to 15+ UI/UX improvements in Agile sprints  
+- Integrated APIs for enhanced real-time interactivity
 
 ### Deva Yazılım – *Full Stack Developer Intern*  
-📅 June 2024 – July 2024  
-- Developed backend modules with **ASP.NET Core** & **Entity Framework**  
-- Implemented code-first database architecture  
+📅 Jun 2024 – Jul 2024  
+- Developed backend services using **ASP.NET Core** with **code-first** approach  
+- Built and managed relational database schemas  
 
-### KTO Karatay University – *Communication Directorate Assistant*  
-📅 October 2023 – June 2024  
-- Represented engineering faculties to prospective students  
-- Engaged in promotional events and presentations  
+### KTO Karatay University – *Public Relations Assistant*  
+📅 Oct 2023 – Jun 2024  
+- Represented engineering departments in university promotions  
+- Delivered 10+ presentations to prospective students  
 
 ---
 
 ## 🚀 Projects
 
-### 🌤️ Smart Weather Outfit Advisor  
-- Weather-based clothing suggestion app using **React**, **Redux**, and **REST APIs**  
-- Dynamic UI with city-based updates  
+### 📊 Vsolw – Social Media Admin Panel *(Private)*  
+- 20+ reusable React + TypeScript components  
+- Built for 3+ marketing agencies, mobile-optimized  
+- Achieved 40% performance boost
 
-### 📊 Vsolw – Social Media Management Dashboard  (private)
-- Dashboard UI for marketing agencies  
-- Built using **React** and **TypeScript**, with emphasis on performance  
+### 🌈 Gülümse – React Native Mobile App *(Private)*  
+- Positive affirmation app integrated with Firebase  
+- 100+ daily messages, 85% satisfaction in testing  
 
-### 🌈 Gülümse – Mobile App  (private)
-- Daily positive affirmations and reminders via **React Native**  
-- Integrated **Firebase** for real-time data & notifications  
+### 📚 Hayal Rafım – Virtual Library App *(Private)*  
+- React Native app with Firebase backend  
+- Tracks 200+ books per user, 92% retention rate
 
-### ♻️ Waste – UI/UX Redesign with React
-- Redesigned and developed a web UI using React, focused on creating a modern, user-friendly, and responsive interface
-- Implemented one Figma design, but included others as alternatives for review
+### 🧺 Çeyiz Listem – Mobile App *(Private)*  
+- Personalized checklist with Redux & AsyncStorage  
+- Full offline support with 0% data loss reported  
+
+### 🌤️ Smart Weather-Based Outfit Advisor  
+- Suggests clothes based on weather using **React** and public APIs  
+- Improved logic accuracy by 60% with user testing
 
 ### 💼 Personal Portfolio Website  
-- A showcase of my skills and projects using **React**  
-- Implemented **React Router** and responsive design  
-
-
+- React-based, responsive site deployed via GitHub Pages  
+- WCAG 2.1 compliant & implemented **React Router**
 
 ---
 
@@ -73,21 +79,22 @@
 
 - **Languages:** JavaScript, TypeScript, C++, Java, C  
 - **Frontend:** React, React Native, Redux, HTML5, CSS3  
-- **Backend:** ASP.NET Core (basic), Firebase, SQL  
-- **Tools:** Git, GitHub/GitLab, Jira, Axios, REST APIs  
+- **Backend:** ASP.NET Core, Firebase, SQL  
+- **Tools & Practices:** Git, GitLab, Jira, Agile, Accessibility Testing  
 - **Design:** Figma, UI/UX Principles  
-- **Practices:** Agile/Scrum, Web Accessibility  
 
 ---
 
 ## 📜 Certifications
 
 - React Development – *BORUSAN Technology School*  
-- JavaScript Mastery – *ProSchool IT Class*  
+- JavaScript Specialization – *ProSchool IT Class*  
 - Git and GitHub Essentials  
 - Applied Figma Design  
 - Java & C++ Programming  
-- HTML5 and Web Development  
+- HTML5 & Web Development  
+- Web Programming 101 & 201  
+- Website Usability
 
 ---
 
@@ -98,11 +105,11 @@
 
 ---
 
-## 📎 References & Docs
+## 📎 Documents & References
 
-📁 [View my certifications, reference letters, and additional documents](https://drive.google.com/...)
+📁 [Click to view certifications, reference letters, and other documents](https://drive.google.com/drive/folders/13v9l9daOGf61FtSILIOesDh0yu7TQgm3?usp=sharing)
 
 ---
 
 > Let’s build intuitive and modern web experiences together!  
-📫 Reach me at: frknslck.2001@gmail.com
+📫 Reach me at: **frknslck.2001@gmail.com**
