@@ -16,7 +16,7 @@
 
 ## 💻 Work Experience
 
-### Fonext – *Frontend Developer Intern*  
+### Fonext – *Frontend Developer*  
 📅 Dec 2024 – Jun 2025  
 - Reduced page load times by 30% through optimized React + TypeScript development  
 - Led full lifecycle of 2 frontend projects with 15+ dynamic components  
