@@ -1,115 +1,130 @@
-# Hi 👋, I'm Furkan Selçuk
-
-### Frontend Developer | React & React Native Enthusiast
+# Hi 👋, I'm Furkan Selçuk  
+### Full Stack Developer | React & .NET Core Enthusiast
 
 ![Profile views](https://komarev.com/ghpvc/?username=furkan-selcuk&color=orange)
 
-## 🧠 About Me
+## 🧠 About Me  
+Full Stack Developer olarak **React**, **React Native**, **TypeScript**, **C#** ve **ASP.NET Core** teknolojileriyle modern ve ölçeklenebilir web uygulamaları geliştiriyorum.  
+Frontend tarafında kullanıcı dostu, hızlı, erişilebilir arayüzler; backend tarafında ise güvenli, ölçeklenebilir REST API’ler ve veri yönetimi çözümleri üretiyorum.
 
-- 🎓 Computer Engineering graduate from **KTO Karatay University**
-- ⚛️ Specialized in **React**, **React Native**, **Redux**, and **TypeScript**
-- 🎯 Focused on creating **user-friendly**, **high-performance**, and **accessible** interfaces
-- 🧑‍🏫 Experienced in **mentoring**, **training**, and **project execution**
-- 📍 Based in Konya, Turkey
+- 🎓 **Computer Engineering – KTO Karatay University (2025)**  
+- ⚛️ React, React Native & TypeScript uzmanlığı  
+- 🖥️ .NET Core, SQL, Entity Framework deneyimi  
+- 🧑‍🏫 Mentorluk ve teknik eğitim tecrübesi  
+- 📍 Konya, Turkey  
 
 ---
 
 ## 💻 Work Experience
 
-### Fonext – *Frontend Developer*  
-📅 Dec 2024 – Jun 2025  
-- Reduced page load times by 30% through optimized React + TypeScript development  
-- Led full lifecycle of 2 frontend projects with 15+ dynamic components  
-- Created scalable architecture, improving dev speed by 40%
+### **EKA Creative Studio – Full Stack Developer**  
+📅 *Sep 2025 – Present*  
+- React ve ASP.NET Core kullanarak full-stack web uygulamaları geliştirdim  
+- Güvenli REST API'ler tasarladım ve SQL Server ile veri yönetimi yaptım  
+- Kimlik doğrulama, CRUD işlemleri ve backend optimizasyonları gerçekleştirdim  
 
-### T3 Türkiye Technology Team – *Software Instructor & Mentor*  
-📅 Mar 2024 – Dec 2024  
-- Delivered 30+ hours of training to 100+ students  
-- Mentored 20+ real-world projects  
-- Designed 3 project-based learning tracks  
+### **Fonext – Frontend Developer**  
+📅 *Dec 2024 – Jun 2025*  
+- React + TypeScript ile responsive arayüzler geliştirdim  
+- 2 projeyi tasarımdan canlıya kadar uçtan uca yönettim  
+- Reusable component kütüphaneleri oluşturarak performansı artırdım  
 
-### Entegre Yazılım – *Frontend Developer Intern*  
-📅 Jul 2024 – Aug 2024  
-- Developed 10+ reusable UI components with React  
-- Contributed to 15+ UI/UX improvements in Agile sprints  
-- Integrated APIs for enhanced real-time interactivity
+### **T3 Türkiye Technology Team – Software Instructor & Mentor**  
+📅 *Mar 2024 – Dec 2024*  
+- Frontend ağırlıklı eğitimler verdim  
+- 30+ öğrenciyi proje geliştirme süreçlerinde yönlendirdim  
+- Proje tabanlı öğrenme materyalleri oluşturdum  
 
-### Deva Yazılım – *Full Stack Developer Intern*  
-📅 Jun 2024 – Jul 2024  
-- Developed backend services using **ASP.NET Core** with **code-first** approach  
-- Built and managed relational database schemas  
+### **Entegre Yazılım – Frontend Developer Intern**  
+📅 *Jul 2024 – Aug 2024*  
+- React & TypeScript ile 10+ UI component geliştirdim  
+- ASP.NET Core backend ile tam entegrasyonlar yaptım  
+- Agile sprint süreçlerinde aktif yer aldım  
 
-### KTO Karatay University – *Public Relations Assistant*  
-📅 Oct 2023 – Jun 2024  
-- Represented engineering departments in university promotions  
-- Delivered 10+ presentations to prospective students  
+### **Deva Yazılım – Full Stack Developer Intern**  
+📅 *Jun 2024 – Jul 2024*  
+- C# & ASP.NET Core ile backend API’ler geliştirdim  
+- EF Core Code-First ile veri tabanı şemaları tasarladım  
+- Backend hata ayıklama ve gerçek senaryo geliştirmeleri yaptım  
+
+### **KTO Karatay University – Public Relations Assistant**  
+📅 *Oct 2023 – Jun 2024*  
+- Mühendislik bölümleri için tanıtım sunumları gerçekleştirdim  
+- 100+ öğrenci ile aktif iletişim kurarak tercih süreçlerinde destek oldum  
 
 ---
 
 ## 🚀 Projects
 
-### 📊 Vsolw – Social Media Admin Panel *(Private)*  
-- 20+ reusable React + TypeScript components  
-- Built for 3+ marketing agencies, mobile-optimized  
-- Achieved 40% performance boost
+### **📊 Vsolw – Social Media Management Panel (2025)**  
+- React + TypeScript ile 15+ reusable component  
+- Ajanslar için kapsamlı yönetim paneli  
+- ASP.NET Core backend entegrasyonu  
 
-### 🌈 Gülümse – React Native Mobile App *(Private)*  
-- Positive affirmation app integrated with Firebase  
-- 100+ daily messages, 85% satisfaction in testing  
+### **😊 Gülümse – React Native Mobile App (Play Store)**  
+- Firebase tabanlı kimlik doğrulama ve veri yönetimi  
+- Günlük bildirimlerle %30 kullanıcı etkileşimi artışı  
+- Erişilebilir ve sade UI  
 
-### 📚 Hayal Rafım – Virtual Library App *(Private)*  
-- React Native app with Firebase backend  
-- Tracks 200+ books per user, 92% retention rate
+### **📚 Hayal Rafım – React Native Book Tracking App (Play Store)**  
+- Kullanıcıların okudukları kitapları takip etmesi için tasarlandı  
+- Firebase ile dinamik veri akışı ve oturum yönetimi  
+- 100+ kullanıcıyla test edildi  
 
-### 🧺 Çeyiz Listem – Mobile App *(Private)*  
-- Personalized checklist with Redux & AsyncStorage  
-- Full offline support with 0% data loss reported  
+### **🧺 Çeyiz Listem – Mobile Checklist App**  
+- Redux + AsyncStorage ile kalıcı veri saklama  
+- 50+ öğelik özelleştirilebilir liste yönetimi  
+- 100+ aktif kullanıcı  
 
-### 🌤️ Smart Weather-Based Outfit Advisor  
-- Suggests clothes based on weather using **React** and public APIs  
-- Improved logic accuracy by 60% with user testing
+### **🌤️ Smart Weather Clothing Recommender**  
+- Günlük hava durumuna göre kıyafet önerileri  
+- REST API + Redux veri akışı  
+- Mobil uyumlu modern UI  
 
-### 💼 Personal Portfolio Website  
-- React-based, responsive site deployed via GitHub Pages  
-- WCAG 2.1 compliant & implemented **React Router**
+### **💼 Personal Portfolio**  
+- React + CSS ile modern, responsive tasarım  
+- React Router ile çoklu sayfa mimarisi  
+- Lighthouse: %95+ performans ve erişilebilirlik skorları  
 
 ---
 
 ## 🛠️ Skills
 
-- **Languages:** JavaScript, TypeScript, C++, Java, C  
-- **Frontend:** React, React Native, Redux, HTML5, CSS3  
-- **Backend:** ASP.NET Core, Firebase, SQL  
-- **Tools & Practices:** Git, GitLab, Jira, Agile, Accessibility Testing  
-- **Design:** Figma, UI/UX Principles  
+**Frontend:** React, React Native, TypeScript, Redux, JavaScript, HTML5, CSS3  
+**Backend:** C#, ASP.NET Core, Entity Framework, REST API  
+**Database:** SQL Server, Firebase, MongoDB  
+**Tools & Methods:** Git, GitLab, Jira, Agile, Accessibility Testing  
+**Design:** Figma, UI/UX  
+**Other Languages:** Java, C++, C  
 
 ---
 
-## 📜 Certifications
-
-- React Development – *BORUSAN Technology School*  
-- JavaScript Specialization – *ProSchool IT Class*  
-- Git and GitHub Essentials  
+## 📜 Certifications  
+- React Development – **Borusan Technology School**  
+- C# Programming  
+- ASP.NET Core MVC  
+- ASP.NET Core Web API  
+- SQL (Applied Learning)  
+- JavaScript Expertise – **ProSchool IT**  
 - Applied Figma Design  
+- HTML5 Web Development  
 - Java & C++ Programming  
-- HTML5 & Web Development  
+- Website Usability  
 - Web Programming 101 & 201  
-- Website Usability
 
 ---
 
-## 🌍 Languages
-
-- 🇹🇷 Turkish – Native  
-- 🇬🇧 English – Professional Working Proficiency (B2)
-
----
-
-## 📎 Documents & References
-
-📁 [Click to view certifications, reference letters, and other documents](https://drive.google.com/drive/folders/13v9l9daOGf61FtSILIOesDh0yu7TQgm3?usp=sharing)
+## 🌍 Languages  
+- 🇹🇷 **Turkish** – Native  
+- 🇬🇧 **English** – B2 Professional Working Proficiency  
 
 ---
 
-> Let’s build intuitive and modern web experiences together!  
-📫 Reach me at: **frknslck.2001@gmail.com**
+## 📎 Documents & References  
+📁 Tüm sertifikalar, referans mektupları ve proje dökümanları:  
+**https://drive.google.com/drive/folders/13v9l9daOGf61FtSILIOesDh0yu7TQgm3?usp=sharing**
+
+---
+
+> ✨ I build modern, scalable and clean digital experiences.  
+📫 **frknslck.2001@gmail.com**
